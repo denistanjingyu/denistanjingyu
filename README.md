@@ -1,4 +1,4 @@
-## Here are some quick facts about what I'm currently spending my time on! :muscle:
+## Here are some quick facts about what I'm currently spending my time on~ :muscle:
 
 - :point_right: I'm currently working on ... Text mining using NLP, Image recognition, Neural network models for wastewater treatment plant
 - :information_desk_person: I'm currently learning ... AWS, FLask, Calculus
