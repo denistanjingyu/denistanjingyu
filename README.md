@@ -1,4 +1,4 @@
-## Here are some quick facts about what I'm currently spending my time on~ :muscle:
+## About Me~ :muscle:
 
 ![0065b3b403464625c524b1264f3b165e](https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif)
 
