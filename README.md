@@ -5,4 +5,4 @@
 - :point_right: I'm currently working on ... Natural Language Processing, Deep learning for wastewater treatment plant, LSTM, Genetic engineering attribution challenge, Clean energy project
 - :information_desk_person: I'm currently learning ... AWS, FLask, Transfer learning, Attention mechanism, BERT, Transformer 
 - :boom: I'm interested in ... Data analytics, Machine learning, Data science, Artificial intelligence, Internet of Things
-- :grey_question: Ask me about ... Anything
+- :grey_question: Ask me about ... Anything!
