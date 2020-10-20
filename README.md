@@ -4,5 +4,5 @@
 
 - :point_right: I'm currently working on ... Natural Language Processing, Persistent models for WWTP (XGBoost), Clean energy project
 - :information_desk_person: I'm currently learning ... AWS, FLask, BERT, Data structures and algorithms
-- :boom: I'm interested in ... Data analytics, Machine learning, Data science, Artificial intelligence, Internet of Things
+- :boom: I'm interested in ... Business analytics, Data analytics, Machine learning, Data science, Artificial intelligence, Internet of Things
 - :grey_question: Ask me about ... Anything!
