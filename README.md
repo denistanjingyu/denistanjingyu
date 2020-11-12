@@ -4,5 +4,5 @@
 
 - :point_right: I'm currently working on ... Persistent models for WWTP, Machine learning for waste-to-energy plant, Project Shea clean energy project (Application development)
 - :information_desk_person: I'm currently learning ... AWS, FLask, Data structures and algorithms, Machine Learning Deployment, Statistics
-- :boom: I'm interested in ... Business analytics, Data analytics, Machine learning, Data science, Artificial intelligence, Internet of Things, Research and development
+- :boom: I'm interested in ... Business analytics, Data analytics, Machine learning, Data science, Artificial intelligence, Internet of things, Research and development
 - :grey_question: Ask me about ... Anything!
