@@ -4,5 +4,5 @@
 
 - :point_right: I'm currently working on ... Model predictive control for WWTP, DNA sequencing by next generation sequencing
 - :information_desk_person: I'm currently learning ... AWS, Data structures and algorithms, Machine Learning Deployment, Scala, Spark, Docker, GATK, Ubuntu, Cromwell, C++, Huawei cloud
-- :boom: I'm interested in ... Data analytics, Machine learning, Data science, Artificial intelligence, Internet of things, Research and development, Genomics
+- :boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Research and development, Genomics
 - :grey_question: Ask me about ... Anything!
