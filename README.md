@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" />
+  <img src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" width="800"/>
 </p>
 
 ## Technologies & Tools
 
-### Languages
+### :fire:Languages:fire:
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=ff69b4)
@@ -17,20 +17,20 @@
 ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=CSS3&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=plastic&logo=JavaScript&logoColor=white&color=ff69b4)
 
-### Databases
+### :fire:Databases:fire:
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=MongoDB&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Database-Microsoft_Access-informational?style=plastic&logo=Microsoft-Access&logoColor=white&color=ff69b4)
 
-### Visualization Tools
+### :fire:Visualization Tools:fire:
 ![](https://img.shields.io/badge/Visualization_Tools-Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Visualization_Tools-Power_BI-informational?style=plastic&logo=Power-BI&logoColor=white&color=ff69b4)
 
-### Cloud Technologies
+### :fire:Cloud Technologies:fire:
 ![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Cloud-Huawei_Cloud-informational?style=plastic&logo=Huawei&logoColor=white&color=ff69b4)
 
-### Editors
+### :fire:Editors:fire:
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-Spyder-informational?style=plastic&logo=Spyder-IDE&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-RStudio-informational?style=plastic&logo=RStudio&logoColor=white&color=ff69b4)
