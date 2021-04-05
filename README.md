@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/Code-Scala-informational?style=plastic&logo=Scala&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=C&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-C++-informational?style=plastic&logo=c%2B%2B&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Code-Octave-informational?style=plastic&logo=Octave&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=plastic&logo=Octave&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=plastic&logo=HTML5&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=plastic&logo=CSS3&logoColor=white&color=ff69b4)
@@ -19,6 +20,9 @@
 
 ![](https://img.shields.io/badge/Visualization_Tools-Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Visualization_Tools-Power_BI-informational?style=plastic&logo=Power-BI&logoColor=white&color=ff69b4)
+
+![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Cloud-Huawei-informational?style=plastic&logo=Huawei&logoColor=white&color=ff69b4)
 
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-Spyder-informational?style=plastic&logo=Spyder-IDE&logoColor=white&color=ff69b4)
