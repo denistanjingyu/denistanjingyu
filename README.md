@@ -3,7 +3,7 @@
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=RStudio&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Code-R-informational?style=plastic&logo=R&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-SQL-informational?style=plastic&logo=MySQL&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-Scala-informational?style=plastic&logo=Scala&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Code-C-informational?style=plastic&logo=C&logoColor=white&color=ff69b4)
@@ -15,16 +15,19 @@
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=plastic&logo=MySQL&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=plastic&logo=MongoDB&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Database-Microsoft_Access-informational?style=plastic&logo=Microsoft&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Database-Microsoft_Access-informational?style=plastic&logo=Microsoft-Access&logoColor=white&color=ff69b4)
 
 ![](https://img.shields.io/badge/Visualization_Tools-Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Visualization_Tools-Power_BI-informational?style=plastic&logo=Microsoft&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Visualization_Tools-Power_BI-informational?style=plastic&logo=Power-BI&logoColor=white&color=ff69b4)
 
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Editor-Spyder-informational?style=plastic&logo=SpyderIDE&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-Spyder-informational?style=plastic&logo=Spyder-IDE&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-RStudio-informational?style=plastic&logo=RStudio&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=plastic&logo=Visual-Studio&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=plastic&logo=Visual-Studio-Code&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=plastic&logo=IntelliJ-IDEA&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=plastic&logo=Atom&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=ff69b4)
 
 ## About Me
 
