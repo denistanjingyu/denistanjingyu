@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" width="800"/>
 </p>
 
-## Technologies & Tools
+## :computer:Technologies & Tools:computer:
 
 ### :fire:Languages:fire:
 ![](https://img.shields.io/badge/Code-Python-informational?style=plastic&logo=Python&logoColor=white&color=ff69b4)
@@ -40,7 +40,7 @@
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=plastic&logo=Atom&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-Sublime_Text-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=ff69b4)
 
-## About Me
+## :zap:About Me:zap:
 
 :point_right: I'm currently working on ... Variant refinement software FIREVAT (FInding REliable Variants without ArTifacts)
 
