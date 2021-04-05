@@ -1,6 +1,13 @@
+<script src="jquery.js" type="text/javascript"></script>
+<script src="image-scale.js" type="text/javascript"></script>
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" />
+  <img class="scale" src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" />
 </p>
+
+$(function() {
+  $("img.scale").imageScale();
+});
 
 ## Technologies & Tools
 
