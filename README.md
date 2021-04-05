@@ -1,6 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" width="900"/>
+  <img src="https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif" width="1000"/>
 </p>
+
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/denistanjingyu/count.svg" alt="" /></td>
+  </tr>
+</table>
 
 ## Technologies & Tools
 
