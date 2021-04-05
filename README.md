@@ -16,3 +16,5 @@
 :boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Statistics, Research and development, Investing, Finance,  Genomics
 
 :grey_question: Ask me about ... Anything!
+
+![](https://komarev.com/ghpvc/?username=denistanjingyu&color=ff69b4&style=plastic)
