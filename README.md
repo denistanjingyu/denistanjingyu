@@ -1,5 +1,3 @@
-# About Me~
-
 ![0065b3b403464625c524b1264f3b165e](https://user-images.githubusercontent.com/45563371/88962170-a585ce00-d2d8-11ea-8b71-3c014f8925d8.gif)
 
 ## Technologies & Tools
@@ -27,6 +25,8 @@
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
+
+## About Me
 
 :point_right: I'm currently working on ... Variant refinement software FIREVAT (FInding REliable Variants without ArTifacts)
 
