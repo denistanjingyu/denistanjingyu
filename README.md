@@ -21,8 +21,8 @@
 ![](https://img.shields.io/badge/Visualization_Tools-Tableau-informational?style=plastic&logo=Tableau&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Visualization_Tools-Power_BI-informational?style=plastic&logo=Power-BI&logoColor=white&color=ff69b4)
 
-![](https://img.shields.io/badge/Cloud-Amazon_AWS-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=ff69b4)
-![](https://img.shields.io/badge/Cloud-Huawei-informational?style=plastic&logo=Huawei&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Cloud-Amazon_Web_Services-informational?style=plastic&logo=Amazon-AWS&logoColor=white&color=ff69b4)
+![](https://img.shields.io/badge/Cloud-Huawei_Cloud-informational?style=plastic&logo=Huawei&logoColor=white&color=ff69b4)
 
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=plastic&logo=PyCharm&logoColor=white&color=ff69b4)
 ![](https://img.shields.io/badge/Editor-Spyder-informational?style=plastic&logo=Spyder-IDE&logoColor=white&color=ff69b4)
