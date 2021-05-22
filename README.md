@@ -51,7 +51,7 @@
 
 :point_right: I'm currently working on ... Variant refinement software FIREVAT (FInding REliable Variants without ArTifacts)
 
-:information_desk_person: I'm currently learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, GATK/Cromwell, Ubuntu, Huawei cloud, Distributed systems, Genomics/Bioinformatics, Graph theory, OOP
+:information_desk_person: I'm currently learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, GATK/Cromwell, Ubuntu, Huawei cloud, Distributed systems, Genomics/Bioinformatics, OOP
 
 :boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Statistics, Research and development, Investing, Finance,  Genomics
 
