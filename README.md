@@ -53,6 +53,6 @@
 
 :information_desk_person: I'm currently learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, Distributed systems
 
-:boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Statistics, Research and development, Investing, Finance,  Genomics
+:boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Statistics, Research and development, Investing, Finance
 
 :grey_question: Ask me about ... Anything!
