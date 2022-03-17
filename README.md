@@ -57,4 +57,4 @@
 
 :grey_question: Ask me about ... Anything!
 
-[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denistanjingyu)](https://github.com/anuraghazra/github-readme-stats)
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denistanjingyu&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
