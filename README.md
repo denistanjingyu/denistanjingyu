@@ -56,3 +56,5 @@
 :boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Statistics, Research and development, Investing, Finance
 
 :grey_question: Ask me about ... Anything!
+
+[![Denis's GitHub stats](https://github-readme-stats.vercel.app/api?username=denistanjingyu)](https://github.com/anuraghazra/github-readme-stats)
