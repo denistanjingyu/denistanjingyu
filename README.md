@@ -51,8 +51,8 @@
 
 :point_right: I'm currently working on ... Deep learning-based variant refinement software 
 
-:information_desk_person: I'm currently learning ... Data structures and algorithms, Machine learning deployment, Software development, Spark (PySpark), Docker/Kubernetes, Distributed systems, CI/CD
+:information_desk_person: I'm currently learning ... Data structures and algorithms, Machine learning deployment, Spark (PySpark), Docker/Kubernetes, Distributed systems, CI/CD
 
-:boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Internet of things, Statistics, Research and development, Investing, Finance
+:boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Statistics, Research and development
 
 :grey_question: Ask me about ... Anything!
