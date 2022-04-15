@@ -46,13 +46,3 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=plastic&logo=IntelliJ-IDEA&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Atom-informational?style=plastic&logo=Atom&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=teal)
-
-## About Me
-
-:point_right: I'm currently working on ... Deep learning-based variant refinement software 
-
-:information_desk_person: I'm currently learning ... Data structures and algorithms, Machine learning deployment, Spark (PySpark), Docker/Kubernetes, Distributed systems, CI/CD
-
-:boom: I'm interested in ... Data science, Machine learning, Data analytics, Artificial intelligence, Statistics, Research and development
-
-:grey_question: Ask me about ... Anything!
