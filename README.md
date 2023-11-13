@@ -46,5 +46,3 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=plastic&logo=IntelliJ-IDEA&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Atom-informational?style=plastic&logo=Atom&logoColor=white&color=teal)
 ![](https://img.shields.io/badge/Sublime_Text-informational?style=plastic&logo=Sublime-Text&logoColor=white&color=teal)
-
-![snake gif](https://github.com/denistanjingyu/denistanjingyu/blob/output/github-contribution-grid-snake.svg)
